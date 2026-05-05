@@ -1,0 +1,163 @@
+  present.cpp
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\hooks\present.cpp(56,10): error C1083: Datei (Include) kann nicht geöffnet werden: "sqlite3.h": No such file or directory
+  (Quelldatei „/hooks/present.cpp“ wird kompiliert)
+  
+  cheat.cpp
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(50,66): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(50,85): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(51,29): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(51,52): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(51,75): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(51,88): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(52,29): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(52,52): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(52,75): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(52,88): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(53,29): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(53,52): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(53,75): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(53,88): error C2065: "vm": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(59,17): error C2065: "width": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(59,51): error C2065: "width": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(60,17): error C2065: "height": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(60,52): error C2065: "height": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(76,23): error C3861: "NormalizePitch": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(76,50): error C3861: "NormalizeYaw": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(204,23): error C3861: "NormalizePitch": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(204,74): error C3861: "NormalizeYaw": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(210,20): error C3861: "NormalizePitch": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(211,20): error C3861: "NormalizeYaw": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(220,55): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(220,74): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(223,46): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(223,58): error C2065: "width": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(223,65): error C2065: "height": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(226,21): error C2065: "width": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(227,21): error C2065: "height": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(234,66): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(234,85): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(242,53): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(242,65): error C2065: "width": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(242,72): error C2065: "height": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(242,127): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(242,139): error C2065: "width": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(242,146): error C2065: "height": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(260,37): error C2039: "clamp" ist kein Member von "std".
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(29,1):
+      Siehe Deklaration von "std"
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(260,37): error C3861: "clamp": Bezeichner wurde nicht gefunden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(270,5): error C2065: "view_matrix_t": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(270,19): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "viewMatrix"
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(270,19): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(270,30): error C3079: Eine Initialisiererliste kann nicht als rechter Operand dieses Zuweisungsoperators verwendet werden.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(274,5): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(274,36): error C2061: Syntaxfehler: Bezeichner "view_matrix_t"
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(321,34): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(336,45): error C2065: "viewMatrix": nichtdeklarierter Bezeichner
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(337,88): error C3083: "buttons": Das Symbol links neben "::" muss ein Typ sein.
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+  
+C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\features\cheat.cpp(337,97): error C2039: "attack" ist kein Member von "cs2_dumper".
+  (Quelldatei „/features/cheat.cpp“ wird kompiliert)
+      C:\Users\Max\Downloads\Ai Cheat\Ai_Cheat\sdk\offsets.h(3,11):
+      Siehe Deklaration von "cs2_dumper"
+  
+  Code wird generiert...

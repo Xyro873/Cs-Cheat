@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA238-08F8-4698-B33B-5DAA400FA887}|Ai Cheat.vcxproj|C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\features\\cheat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04EEA238-08F8-4698-B33B-5DAA400FA887}|Ai Cheat.vcxproj|solutionrelative:features\\cheat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA238-08F8-4698-B33B-5DAA400FA887}|Ai Cheat.vcxproj|C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\hooks\\present.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04EEA238-08F8-4698-B33B-5DAA400FA887}|Ai Cheat.vcxproj|solutionrelative:hooks\\present.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA238-08F8-4698-B33B-5DAA400FA887}|Ai Cheat.vcxproj|C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\features\\cheat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04EEA238-08F8-4698-B33B-5DAA400FA887}|Ai Cheat.vcxproj|solutionrelative:features\\cheat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "present.cpp",
+              "DocumentMoniker": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\hooks\\present.cpp",
+              "RelativeDocumentMoniker": "hooks\\present.cpp",
+              "ToolTip": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\hooks\\present.cpp",
+              "RelativeToolTip": "hooks\\present.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvzcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-05T18:53:08.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cheat.cpp",
+              "DocumentMoniker": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\features\\cheat.cpp",
+              "RelativeDocumentMoniker": "features\\cheat.cpp",
+              "ToolTip": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\features\\cheat.cpp",
+              "RelativeToolTip": "features\\cheat.cpp",
+              "ViewState": "AgIAADEBAAAAAAAAAADgv1ABAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-05T18:53:01.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cheat.h",
+              "DocumentMoniker": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\features\\cheat.h",
+              "RelativeDocumentMoniker": "features\\cheat.h",
+              "ToolTip": "C:\\Users\\Max\\Downloads\\Ai Cheat\\Ai_Cheat\\features\\cheat.h",
+              "RelativeToolTip": "features\\cheat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T18:52:24.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<ItemDefinitionGroup>
+  <ClCompile>
+    <AdditionalIncludeDirectories>$(ProjectDir);$(ProjectDir)sdk;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+  </ClCompile>
+</ItemDefinitionGroup>
